@@ -1,5 +1,5 @@
 # About
-This is simply a lmgtfy.com remake without ads. 
+This is simply a lmgtfy concept in Persian, hosted at http://bmbgk.ir
 
-# How do I use it?
-Simply visit http://arinerron.github.io/re-lmgtfy/ and type in the info it asks for to generate a re-lmgtfy link.
+# Note
+originally forked from re-lmgtfy but commpletely replace by another script
